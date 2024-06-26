@@ -3,7 +3,7 @@
 
 __An Open Source Task App for Android__
 
-This is a task app for Android.
+I am a noob testing. This is a task app for Android.
 
 ## Requirements
 
